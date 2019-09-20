@@ -1,0 +1,2 @@
+git fetch - update this thing
+git commit <file> -> add message -> save exit -> git push
